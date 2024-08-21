@@ -36,8 +36,8 @@ The chatbot platform is designed to work both with and without a GPU. If a GPU i
 Clone the repository and navigate to the project directory:
  ```
 
-git clone https://github.com/nandxorandor/chatbot_VS_chatbot.git
-cd self-talking-chatbot
+git clone https://github.com/to-infinitee/llama-chatbots.git
+cd llama-chatbots
  ```
 Create and activate a virtual environment:
  ```
