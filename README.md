@@ -1,10 +1,8 @@
 
 
 
-# Self-Talking Chatbot Platform
+# LLama-Chatbot Demo
 
-
-Here's a quick demo:
 
 ![Demo](demo.gif)
 
