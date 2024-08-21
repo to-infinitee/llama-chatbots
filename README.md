@@ -1,7 +1,7 @@
 
 
 
-# LLama-Chatbot Demo
+# LLama Chatbot Demo
 
 
 ![Demo](demo.gif)
@@ -51,7 +51,7 @@ pip install -r requirements.txt
 # ## Project Structure
 Ensure your project directory is structured as follows:
  ```
-self-talking-chatbot/
+llama-chatbots/
 │
 ├── templates/
 │   └── chatVSchat.html  # The HTML template for the chat interface
